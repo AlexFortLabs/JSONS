@@ -1,0 +1,128 @@
+{"items": [	
+	{
+        "id": 56,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/BSM-Adapter_DN_150-200.jpg",
+        "prodtitel": "BSM-Adapter DN 150 / 200",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/bsm-adapter-dn-150-200.html"
+        },
+        {
+        "id": 57,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/VPC-Rohrkupplung-01.JPG",
+        "prodtitel": "VPC-Rohrkupplung 100 - 1070",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/vpc-rohrkupplung-100-1070.html"
+        },
+        {
+        "id": 58,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/VPC-Rohrkupplung-i__lbestN__ndig-01.jpg",
+        "prodtitel": "VPC-Rohrkupplung \u00f6lbest\u00e4ndig DN 100 - 1070",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/vpc-rohrkupplung-oelbestaendig-dn-100-1070.html"
+        },
+        {
+        "id": 59,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/VPC-XXL_01.jpg",
+        "prodtitel": "VPC-Rohrkupplung XXL",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/vpc-rohrkupplung-xxl.html"
+        },
+        {
+        "id": 60,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/VPC-Sonderli__sungen-01.jpg",
+        "prodtitel": "VPC-Rohrkupplung Sonderl\u00f6sungen, Betonadapter",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/vpc-rohrkupplung-sonderloesungen-betonadapter.html"
+        },
+        {
+        "id": 61,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/BSM-Adapter-01.jpg",
+        "prodtitel": "BSM-Adapter DN 250 - 500",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/bsm-adapter-dn-250-500.html"
+        },
+        {
+        "id": 62,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke_FHS_Kupplung_Kachel01.jpg",
+        "prodtitel": "Funke FHS-Kupplung 40\u2013110",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/funke-fhs-kupplung-40-110.html"
+        },
+        {
+        "id": 63,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/BI-Adapter-01.jpg",
+        "prodtitel": "BI-Adapter DN 150 - 1200",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/bi-adapter-dn-150-1000.html"
+        },
+        {
+        "id": 64,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/BI-Adapter-oelbestaendig-Titelbil-01.jpg",
+        "prodtitel": "Funke BI-Adapter \u00f6lbest\u00e4ndig",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/funke-bi-adapter-oelbestaendig.html"
+        },
+        {
+        "id": 65,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/BI-Adapter-starre-Version-01.jpg",
+        "prodtitel": "BI-Adapter starr DN 100 - 200",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/bi-adapter-starr-dn-100-200.html"
+        },
+        {
+        "id": 66,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Titelbild-BI-Passstueckset-01.jpg",
+        "prodtitel": "BI-Passst\u00fcck Set",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/bi-passstueck-set.html"
+        },
+        {
+        "id": 67,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/BI-Adapter-Innen-Innen-01.jpg",
+        "prodtitel": "BI-Adapter Innen/Innen DN 250 - 600",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/bi-adapter-inneninnen-dn-250-600.html"
+        },
+        {
+        "id": 68,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/BI-Adapter-Eiprofil-01.jpg",
+        "prodtitel": "BI-Adapter Eiprofil DN 200/300 - 400/600",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/bi-adapter-eiprofil-dn-200300-400600.html"
+        },
+        {
+        "id": 69,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Titelbild-BI-EiprofilEiprofil-ohne-Kurzrohr-01.jpg",
+        "prodtitel": "BI-Adapter Eiprofil/Eiprofil DN 200/300 - 600/900",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/bi-adapter-eiprofileiprofil-dn-200300-600900.html"
+        },
+        {
+        "id": 70,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Adapterplatte-Eiprofil-Kreisprofil-01.jpg",
+        "prodtitel": "\u00dcbergang Eiprofil / Kreisprofil ab 500/750",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/uebergang-eiprofil-kreisprofil-ab-500750.html"
+        },
+        {
+        "id": 71,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Kurzrohr-Eiprofil-01.jpg",
+        "prodtitel": "Funke Kurzrohr Eiprofil",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/funke-kurzrohr-eiprofil.html"
+        },
+        {
+        "id": 72,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Reparaturabzweig-01.jpg",
+        "prodtitel": "Reparaturabzweig DN/ID 200, 250, 300, 400, 500",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/reparaturabzweig-dnid-200-250-300-400-500.html"
+        },
+        {
+        "id": 73,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/03_Kachel-Reperaturrohre-Rohrnennweite-Button.png",
+        "prodtitel": "Reparaturrohre DN/ID 200 bis 500",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/reparaturrohre-dnid-200-bis-500.html"
+        }
+]}

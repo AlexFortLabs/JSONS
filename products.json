@@ -1,0 +1,884 @@
+{"items": [
+	{
+        "id": 1,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Kachel-Strassenablauf.jpg",
+        "prodtitel": "Funke Stra\u00dfenablauf",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-strassenablauf.html"
+        },
+        {
+        "id": 2,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/D-Raintank-3000-DIBt.png",
+        "prodtitel": "Funke D-Raintank 3000",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-d-raintank-3000.html"
+        },
+        {
+        "id": 3,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Smalbox-DIBt.png",
+        "prodtitel": "D-Raintank 3000 smallbox",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/d-raintank-3000-smallbox.html"
+        },
+        {
+        "id": 4,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Bluebox-DIBt.png",
+        "prodtitel": "Funke KS-Bluebox",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-ks-bluebox.html"
+        },
+        {
+        "id": 5,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Titelbild-Loeschwassertank.jpg",
+        "prodtitel": "Funke KS-Bluebox als L\u00f6schwasserbeh\u00e4lter",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-ks-bluebox-als-loeschwasserbehaelter.html"
+        },
+        {
+        "id": 6,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/D-Raintank-3000-Folie-DIBt.png",
+        "prodtitel": "D-Raintank 3000 mit Folienummantelung (KDB)",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/d-raintank-3000-mit-folienummantelung.html"
+        },
+        {
+        "id": 7,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/D-Rainclean_offen-DIBt-neu.png",
+        "prodtitel": "D-Rainclean Sickermulde - Ausf\u00fchrung offen",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/d-rainclean-sickermulde.html"
+        },
+        {
+        "id": 8,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/D-Rainclean_mit-Abdeckung-DIBt-neu.png",
+        "prodtitel": "D-Rainclean Sickermulde mit Gussabdeckung B 125, D 400, E 600",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/d-rainclean-sickermulde-mit-gussabdeckung-klasse-d-400.html"
+        },
+        {
+        "id": 9,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Filterschacht-DIBt-neu.png",
+        "prodtitel": "Funke Filterschacht",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-filterschacht.html"
+        },
+        {
+        "id": 10,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/D-Rainclean-Grossanwendungen-mit-Substrat.JPG",
+        "prodtitel": "D-Rainclean Gro\u00dfanwendungen mit Substrat",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/d-rainclean-grossanwendungen-mit-substrat.html"
+        },
+        {
+        "id": 11,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Innolet-DWA.png",
+        "prodtitel": "Innolet Stra\u00dfenablauffilter f\u00fcr Trockenablauf (Rechteck, Quadrat)",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/innolet-strassenablauffilter-fuer-trockenablauf-rechteck-quadrat.html"
+        },
+        {
+        "id": 12,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Innolet-G-DWA.png",
+        "prodtitel": "Innolet G Stra\u00dfenablauffilter f\u00fcr Nass-Schlammfang",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/innolet-g-strassenablauffilter-fuer-nass-schlammfang.html"
+        },
+        {
+        "id": 13,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Sedimentationsanlage-Titelbild-DWA.png",
+        "prodtitel": "Funke Sedimentationsanlage",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-sedimentationsanlage.html"
+        },
+        {
+        "id": 14,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke_Sedimentationsschacht_DWA.png",
+        "prodtitel": "Funke Sedimentationsschacht",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-sedimentationsschacht.html"
+        },
+        {
+        "id": 15,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke-Reinigungsschacht-DN-1000-Titelbild.jpg",
+        "prodtitel": "Funke Reinigungsschacht DN 1000",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-reinigungsschacht-dn-1000.html"
+        },
+        {
+        "id": 16,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Reinigungsschacht-DN-800-mit-VA-Sieb-01.jpg",
+        "prodtitel": "HS-Reinigungsschacht DN/OD 800 mit VA Sieb",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/hs-reinigungsschacht-dnod-800-mit-va-sieb.html"
+        },
+        {
+        "id": 17,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Reinigungsschacht-DN-OD-400-01.jpg",
+        "prodtitel": "Reinigungsschacht DN/OD 400",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/reinigungsschacht-dnod-400.html"
+        },
+        {
+        "id": 18,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Reinigungsschacht-DN-OD-315-01.jpg",
+        "prodtitel": "Reinigungsschacht DN/OD 315",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/reinigungsschacht-dnod-315.html"
+        },
+        {
+        "id": 19,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke_Drosselschacht-01.jpg",
+        "prodtitel": "Funke Drosselschacht DN 1000",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-drosselschacht-dn-1000.html"
+        },
+        {
+        "id": 20,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Drosselschacht-01.jpg",
+        "prodtitel": "HS-Drosselschacht DN/OD 800",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/hs-drosselschacht-dnod-800.html"
+        },
+        {
+        "id": 21,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Drosselschacht-DN-OD-315-01.jpg",
+        "prodtitel": "Drosselschacht DN/OD 315",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/drosselschacht-dnod-315.html"
+        },
+        {
+        "id": 22,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Eco-Bodenfilter-01.jpg",
+        "prodtitel": "Eco Bodenfilter",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/eco-bodenfilter.html"
+        },
+        {
+        "id": 23,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke-Seitenablauf-Website-01.png",
+        "prodtitel": "Funke Seitenablauf",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-seitenablauf.html"
+        },
+        {
+        "id": 24,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Kachel_Spezialartikel_01-Neu.jpg",
+        "prodtitel": "Funke Spezialsch\u00e4chte",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-spezialschaechte.html"
+        },
+        {
+        "id": 25,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Spuelschacht_Kunststoffe_01_DiBt-Zulassung.jpg",
+        "prodtitel": "Funke Sp\u00fclschacht DN 1000",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-spuelschacht-dn-1000.html"
+        },
+        {
+        "id": 26,
+        "idbereich": 2,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/HS-12-kN-NEU-ohne-Schicht.jpg",
+        "prodtitel": "HS-Kanalrohrsystem DN/OD 110 - 800 / 12 kN/m\u00b2",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrsysteme/produkte/hs-kanalrohrsystem-12-kn-dnod-110-800.html"
+        },
+        {
+        "id": 27,
+        "idbereich": 2,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/HS-16-kN-NEU-ohne-Schicht.jpg",
+        "prodtitel": "HS-Kanalrohrsystem DN/OD 160 - 630 / 16 kN/m\u00b2",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrsysteme/produkte/hs-kanalrohr-16-kn-dnod-160-630.html"
+        },
+        {
+        "id": 28,
+        "idbereich": 2,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/01_Kachel-Connexrohr-Rohrnennweite-Button.png",
+        "prodtitel": "Connex Kanalrohrsystem DN/OD 315 - 800 / SN 8",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrsysteme/produkte/connex-kanalrohrsystem-sn-8-dnod-315-800.html"
+        },
+        {
+        "id": 29,
+        "idbereich": 2,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/02_Kachel-Profilrohr-Rohrnennweite-Button.png",
+        "prodtitel": "Funke Profilrohr DN 1000 / 8 kN/m\u00b2",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrsysteme/produkte/funke-profilrohr-dn-1000-sn-8.html"
+        },
+        {
+        "id": 30,
+        "idbereich": 2,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/03_Kachel-Reperaturrohre-Rohrnennweite-Button.png",
+        "prodtitel": "Reparaturrohre DN/ID 200 bis 500",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrsysteme/produkte/reparaturrohre-dnid-200-bis-500.html"
+        },
+        {
+        "id": 31,
+        "idbereich": 2,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/04_Kachel-Sickerrohr-Rohrnennweite-Button-NEU.png",
+        "prodtitel": "HS-Sickerrohre DN/OD 110 - 800 / 10,5 kN/m\u00b2 (Teilsicker, Vollsicker-, Mehrzweckrohre)",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrsysteme/produkte/hs-sickerrohre-105-kn-teilsicker-vollsicker-mehrzweckrohre-dnod-110-800.html"
+        },
+        {
+        "id": 32,
+        "idbereich": 2,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/05_Kachel-Grundtuecksentwaesserung-Rohrnennweite-Button.png",
+        "prodtitel": "HS-Kanalrohrsystem Grundst\u00fccksentw\u00e4sserung DN/OD 110 - 160 / 12 kN/m\u00b2",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrsysteme/produkte/hs-kanalrohrsystem-grundstuecksentwaesserung-dnod-110-160.html"
+        },
+        {
+        "id": 33,
+        "idbereich": 2,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/06_Kachel-KG-Kanalrohrsystem-Coex2000-Rohrnennweite-Button.png",
+        "prodtitel": "KG Kanalrohrsystem Coex 2000 DN/OD 110 - 500 / 4 kN/m\u00b2",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrsysteme/produkte/kg-kanalrohrsystem-coex-2000-sn-4-dnod-110-500.html"
+        },
+        {
+        "id": 34,
+        "idbereich": 2,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Kabelschutzrohre-01.jpg",
+        "prodtitel": "Kabelschutzrohre DN 50 - 200 und Abstandshalter",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrsysteme/produkte/kabelschutzrohre-dn-50-200-und-abstandshalter.html"
+        },
+        {
+        "id": 35,
+        "idbereich": 2,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Rohrschnitt_grau_Fabekun_Funke_Kunststoffe_01.jpg",
+        "prodtitel": "FABEKUN-Kanalrohr DN/OD 200 - 1200",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrsysteme/produkte/fabekun-kanalrohr-dnod-200-1200.html"
+        },
+        {
+        "id": 36,
+        "idbereich": 2,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/HS-Rohrschneidgeraet-01.jpg",
+        "prodtitel": "HS-Rohr Schneid- und Anfasger\u00e4t",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrsysteme/produkte/hs-rohr-schneid-und-anfasgeraet.html"
+        },
+        {
+        "id": 37,
+        "idbereich": 2,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Auftriebssicherung-01.jpg",
+        "prodtitel": "Auftriebssicherung f\u00fcr Nennweiten DN/OD 250 - 630",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrsysteme/produkte/auftriebssicherung-fuer-nennweiten-dnod-250-630.html"
+        },
+        {
+        "id": 38,
+        "idbereich": 3,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Kachel-Gussrohr-Anschluss-System-Connex.jpg",
+        "prodtitel": "Gussrohr-Anschluss System CONNEX DN/OD 160 und 200",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/hausanschluesse/produkte/gussrohr-anschluss-system-connex.html"
+        },
+        {
+        "id": 39,
+        "idbereich": 3,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Sattelstueck-01.jpg",
+        "prodtitel": "Fabekun Sattelst\u00fcck DN/OD 160 und 200 f\u00fcr dickwandige Kanalrohre",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/hausanschluesse/produkte/fabekun-sattelstueck-dnod-160-und-200-fuer-dickwandige-kanalrohre.html"
+        },
+        {
+        "id": 40,
+        "idbereich": 3,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Connex-Anschluss-01.jpg",
+        "prodtitel": "Connex-Anschluss DN/OD 160 und 200 f\u00fcr d\u00fcnnwandige Kanalrohre",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/hausanschluesse/produkte/connex-anschluss-dnod-160-und-200-fuer-duennwandige-kanalrohre.html"
+        },
+        {
+        "id": 41,
+        "idbereich": 3,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Unitec-Anschluss-01.jpg",
+        "prodtitel": "uniTec Anschluss DN/OD 160",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/hausanschluesse/produkte/unitec-anschluss-dnod-160.html"
+        },
+        {
+        "id": 42,
+        "idbereich": 3,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/u3-anschluss-Titelbild-01.jpg",
+        "prodtitel": "U3-Anschluss - Eiprofil DN/OD 160",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/hausanschluesse/produkte/default-c861ddf113.html"
+        },
+        {
+        "id": 43,
+        "idbereich": 3,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Liner-Anschluss-System-Connex-01.jpg",
+        "prodtitel": "Liner-Anschluss System CONNEX DN/OD 160 und 200",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/hausanschluesse/produkte/liner-anschluss-system-connex-dnod-160-und-200.html"
+        },
+        {
+        "id": 44,
+        "idbereich": 3,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/HS-Klebesattel_fuer_Liner-01.jpg",
+        "prodtitel": "HS-Klebesattel f\u00fcr Liner DN/OD 160 und 200",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/hausanschluesse/produkte/hs-klebesattel-fuer-liner-dnod-160-und-200.html"
+        },
+        {
+        "id": 45,
+        "idbereich": 3,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Sanierungsstutzen_Kachel01_DiBt-Zulassung.jpg",
+        "prodtitel": "Funke Sanierungsstutzen DN/OD 160 und 200 f\u00fcr Hauptrohre DN 300-1000",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/hausanschluesse/produkte/funke-sanierungsstutzen-dnod-160-und-200-fuer-hauptrohre-dn-300-1000.html"
+        },
+        {
+        "id": 46,
+        "idbereich": 3,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Kachel_HS-Komplett-Montageset-05.png",
+        "prodtitel": "HS-Komplett-Montageset f\u00fcr Hauptrohre DN/OD 200 - 2400",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/hausanschluesse/produkte/hs-komplett-montageset-fuer-hauptrohre-dnod-200-2400.html"
+        },
+        {
+        "id": 47,
+        "idbereich": 3,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Connex-Komplettmontageset_01.jpg",
+        "prodtitel": "Komplett-Montageset grau f\u00fcr Hauptrohre DN/OD 200 - 2400",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/hausanschluesse/produkte/komplett-montageset-grau-fuer-hauptrohre-dnod-200-2400.html"
+        },
+        {
+        "id": 48,
+        "idbereich": 3,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/HS-Komplett-Montageset-sohlengleich-01.JPG",
+        "prodtitel": "HS-Komplett-Montageset sohlengleich f\u00fcr Hauptrohre DN/OD 200 - 2400",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/hausanschluesse/produkte/hs-komplett-montageset-sohlengleich-fuer-hauptrohre-dnod-200-2400.html"
+        },
+        {
+        "id": 49,
+        "idbereich": 3,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/HS-Varioabzweig-blau-braun.png",
+        "prodtitel": "HS-VARIO-Abzweig DN/OD 160 \u2013 200 sohlengleich",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/hausanschluesse/produkte/hs-vario-abzweig-dnod-160-200.html"
+        },
+        {
+        "id": 50,
+        "idbereich": 3,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Connex-Varioabzweig-01.jpg",
+        "prodtitel": "CONNEX-VARIO-Abzweig DN/OD 160 \u2013 200 sohlengleich",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/hausanschluesse/produkte/connex-vario-abzweig-dnod-160-200.html"
+        },
+        {
+        "id": 51,
+        "idbereich": 3,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/HS-Varioanschluss-01.jpg",
+        "prodtitel": "HS-Varioanschluss f\u00fcr Betonabzweig DN/OD 160 und 200",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/hausanschluesse/produkte/hs-varioanschluss-fuer-betonabzweig-dnod-160-und-200.html"
+        },
+        {
+        "id": 52,
+        "idbereich": 3,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Teleskopanschluss-01.jpg",
+        "prodtitel": "Funke Teleskopanschluss DN/OD 160 und 200",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/hausanschluesse/produkte/funke-teleskopanschluss-dnod-160-und-200.html"
+        },
+        {
+        "id": 53,
+        "idbereich": 3,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke-Klebeschelle-90Grad-Titelbild01.jpg",
+        "prodtitel": "Funke Klebeschelle 90\u00b0 DN/OD 110 bis 200",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/hausanschluesse/produkte/funke-klebeschelle-90-dnod-110-bis-200.html"
+        },
+        {
+        "id": 54,
+        "idbereich": 3,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke-WanddurchfA__hrung-01.jpg",
+        "prodtitel": "KG-Wanddurchf\u00fchrung DN/OD 110 - 200",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/hausanschluesse/produkte/kg-wanddurchfuehrung-dnod-110-200.html"
+        },
+        {
+        "id": 55,
+        "idbereich": 3,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke-Rohrpflaster-01.jpg",
+        "prodtitel": "Funke Rohrpflaster f\u00fcr drucklose Abwasser-/Regenwasserrohre 75 - 200 mm",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/hausanschluesse/produkte/funke-rohrpflaster-fuer-drucklose-abwasser-regenwasserrohre-75-200-mm.html"
+        },
+        {
+        "id": 56,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/BSM-Adapter_DN_150-200.jpg",
+        "prodtitel": "BSM-Adapter DN 150 / 200",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/bsm-adapter-dn-150-200.html"
+        },
+        {
+        "id": 57,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/VPC-Rohrkupplung-01.JPG",
+        "prodtitel": "VPC-Rohrkupplung 100 - 1070",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/vpc-rohrkupplung-100-1070.html"
+        },
+        {
+        "id": 58,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/VPC-Rohrkupplung-i__lbestN__ndig-01.jpg",
+        "prodtitel": "VPC-Rohrkupplung \u00f6lbest\u00e4ndig DN 100 - 1070",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/vpc-rohrkupplung-oelbestaendig-dn-100-1070.html"
+        },
+        {
+        "id": 59,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/VPC-XXL_01.jpg",
+        "prodtitel": "VPC-Rohrkupplung XXL",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/vpc-rohrkupplung-xxl.html"
+        },
+        {
+        "id": 60,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/VPC-Sonderli__sungen-01.jpg",
+        "prodtitel": "VPC-Rohrkupplung Sonderl\u00f6sungen, Betonadapter",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/vpc-rohrkupplung-sonderloesungen-betonadapter.html"
+        },
+        {
+        "id": 61,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/BSM-Adapter-01.jpg",
+        "prodtitel": "BSM-Adapter DN 250 - 500",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/bsm-adapter-dn-250-500.html"
+        },
+        {
+        "id": 62,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke_FHS_Kupplung_Kachel01.jpg",
+        "prodtitel": "Funke FHS-Kupplung 40\u2013110",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/funke-fhs-kupplung-40-110.html"
+        },
+        {
+        "id": 63,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/BI-Adapter-01.jpg",
+        "prodtitel": "BI-Adapter DN 150 - 1200",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/bi-adapter-dn-150-1000.html"
+        },
+        {
+        "id": 64,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/BI-Adapter-oelbestaendig-Titelbil-01.jpg",
+        "prodtitel": "Funke BI-Adapter \u00f6lbest\u00e4ndig",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/funke-bi-adapter-oelbestaendig.html"
+        },
+        {
+        "id": 65,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/BI-Adapter-starre-Version-01.jpg",
+        "prodtitel": "BI-Adapter starr DN 100 - 200",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/bi-adapter-starr-dn-100-200.html"
+        },
+        {
+        "id": 66,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Titelbild-BI-Passstueckset-01.jpg",
+        "prodtitel": "BI-Passst\u00fcck Set",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/bi-passstueck-set.html"
+        },
+        {
+        "id": 67,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/BI-Adapter-Innen-Innen-01.jpg",
+        "prodtitel": "BI-Adapter Innen/Innen DN 250 - 600",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/bi-adapter-inneninnen-dn-250-600.html"
+        },
+        {
+        "id": 68,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/BI-Adapter-Eiprofil-01.jpg",
+        "prodtitel": "BI-Adapter Eiprofil DN 200/300 - 400/600",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/bi-adapter-eiprofil-dn-200300-400600.html"
+        },
+        {
+        "id": 69,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Titelbild-BI-EiprofilEiprofil-ohne-Kurzrohr-01.jpg",
+        "prodtitel": "BI-Adapter Eiprofil/Eiprofil DN 200/300 - 600/900",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/bi-adapter-eiprofileiprofil-dn-200300-600900.html"
+        },
+        {
+        "id": 70,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Adapterplatte-Eiprofil-Kreisprofil-01.jpg",
+        "prodtitel": "\u00dcbergang Eiprofil / Kreisprofil ab 500/750",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/uebergang-eiprofil-kreisprofil-ab-500750.html"
+        },
+        {
+        "id": 71,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Kurzrohr-Eiprofil-01.jpg",
+        "prodtitel": "Funke Kurzrohr Eiprofil",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/funke-kurzrohr-eiprofil.html"
+        },
+        {
+        "id": 72,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Reparaturabzweig-01.jpg",
+        "prodtitel": "Reparaturabzweig DN/ID 200, 250, 300, 400, 500",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/reparaturabzweig-dnid-200-250-300-400-500.html"
+        },
+        {
+        "id": 73,
+        "idbereich": 4,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/03_Kachel-Reperaturrohre-Rohrnennweite-Button.png",
+        "prodtitel": "Reparaturrohre DN/ID 200 bis 500",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/rohrverbindungen/produkte/reparaturrohre-dnid-200-bis-500.html"
+        },
+        {
+        "id": 74,
+        "idbereich": 5,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Kachel-Strassenablauf.jpg",
+        "prodtitel": "Funke Stra\u00dfenablauf",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtsysteme/produkte/funke-strassenablauf.html"
+        },
+        {
+        "id": 75,
+        "idbereich": 5,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Kachel_Spezialartikel_01-Neu.jpg",
+        "prodtitel": "Funke Spezialsch\u00e4chte",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtsysteme/produkte/funke-spezialschaechte.html"
+        },
+        {
+        "id": 76,
+        "idbereich": 5,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke_Kunststoffschacht_01.jpg",
+        "prodtitel": "Funke Kunststoffschacht DN 1000",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtsysteme/produkte/funke-kunststoffschacht-dn-1000.html"
+        },
+        {
+        "id": 77,
+        "idbereich": 5,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke-Kombischacht-Titelbild-01.png",
+        "prodtitel": "Funke Kombischacht DN 1000",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtsysteme/produkte/funke-kombischacht-dn-1000.html"
+        },
+        {
+        "id": 78,
+        "idbereich": 5,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Titelbild-Hauskontrollschacht-DN1000.jpg",
+        "prodtitel": "Funke Hauskontrollschacht DN 1000",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtsysteme/produkte/funke-hauskontrollschacht-dn-1000.html"
+        },
+        {
+        "id": 79,
+        "idbereich": 5,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Kompaktschacht-Titelbild01.jpg",
+        "prodtitel": "Funke Kompaktschacht DN 625",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtsysteme/produkte/funke-kompaktschacht.html"
+        },
+        {
+        "id": 80,
+        "idbereich": 5,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke-Schacht-1000-01.jpg",
+        "prodtitel": "Funke Schacht DN 1000",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtsysteme/produkte/funke-schacht-dn-1000.html"
+        },
+        {
+        "id": 81,
+        "idbereich": 5,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Spuelschacht_Kunststoffe_01_DiBt-Zulassung.jpg",
+        "prodtitel": "Funke Sp\u00fclschacht DN 1000",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtsysteme/produkte/funke-spuelschacht-dn-1000.html"
+        },
+        {
+        "id": 82,
+        "idbereich": 5,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Fabekun_Spuelschacht_DIBt-neu.png",
+        "prodtitel": "Fabekun Sp\u00fclschacht DN 1200",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtsysteme/produkte/fabekun-spuelschacht.html"
+        },
+        {
+        "id": 83,
+        "idbereich": 5,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Abwasserkontrolle-01.jpg",
+        "prodtitel": "HS-Abwasserkontrolle DN/OD 200",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtsysteme/produkte/hs-abwasserkontrolle-dnod-200.html"
+        },
+        {
+        "id": 84,
+        "idbereich": 5,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/HS-Kontrollschacht-DN-OD-400-01.jpg",
+        "prodtitel": "HS-Kontrollschacht DN/OD 400",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtsysteme/produkte/hs-kontrollschacht-dnod-400.html"
+        },
+        {
+        "id": 85,
+        "idbereich": 5,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/HS-Kontrollschacht-DN-OD-630-01.jpg",
+        "prodtitel": "HS-Kontrollschacht DN/OD 630",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtsysteme/produkte/hs-kontrollschacht-dnod-630.html"
+        },
+        {
+        "id": 86,
+        "idbereich": 5,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/HS-Kontrollschacht-DN-800-Typ1-01.jpg",
+        "prodtitel": "HS-Kontrollschacht DN/OD 800",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtsysteme/produkte/hs-kontrollschacht-dnod-800-typ-1.html"
+        },
+        {
+        "id": 87,
+        "idbereich": 5,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Druckentlastungsschacht-01.jpg",
+        "prodtitel": "HS-Druckentlastungsschacht DN/OD 800",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtsysteme/produkte/hs-druckentlastungsschacht-dnod-800.html"
+        },
+        {
+        "id": 88,
+        "idbereich": 5,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Energieumwandelungsschacht-01.jpg",
+        "prodtitel": "HS-Energieumwandlungsschacht DN/OD 800",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtsysteme/produkte/hs-energieumwandlungsschacht-dnod-800.html"
+        },
+        {
+        "id": 89,
+        "idbereich": 5,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Hauskontrollschacht-01.jpg",
+        "prodtitel": "HS-Hauskontrollschacht DN/OD 800",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtsysteme/produkte/hs-hauskontrollschacht-dnod-800.html"
+        },
+        {
+        "id": 90,
+        "idbereich": 5,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/KG-Schacht-DN-OD-400-01.jpg",
+        "prodtitel": "KG Schacht DN/OD 400",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtsysteme/produkte/kg-schacht-dnod-400.html"
+        },
+        {
+        "id": 91,
+        "idbereich": 5,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke_Filterschacht_01.jpg",
+        "prodtitel": "Funke-Sch\u00e4chte f\u00fcr ein modernes Regenwassermanagement",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtsysteme/produkte/funke-schaechte-fuer-modernes-regenwassermanagement.html"
+        },
+        {
+        "id": 92,
+        "idbereich": 5,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Koederstation-01.jpg",
+        "prodtitel": "Funke K\u00f6derstation - Kanal Typ 1 und Typ 2",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtsysteme/produkte/funke-koederstation-kanal-typ-1-und-typ-2.html"
+        },
+        {
+        "id": 93,
+        "idbereich": 6,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Innenliegender-Absturz-01.jpg",
+        "prodtitel": "Funke-ILA, Innenliegender Absturz DN/OD 160 - 400",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtabstuerze/produkte/funke-ila-innenliegender-absturz-dnod-160-400.html"
+        },
+        {
+        "id": 94,
+        "idbereich": 6,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/ILA-500-700-Titelbild.jpg",
+        "prodtitel": "Funke-ILA DN/OD 500 \u2013 710",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtabstuerze/produkte/funke-ila-dnod-500-700.html"
+        },
+        {
+        "id": 95,
+        "idbereich": 6,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/ILA-SattelstA__ck-mit-innenliegendem-Absturz-01.jpg",
+        "prodtitel": "Funke-ILA Fabekun Sattelst\u00fcck DN/OD 160 und 200",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtabstuerze/produkte/ila-fabekun-sattelstueck-dnod-160-und-200.html"
+        },
+        {
+        "id": 96,
+        "idbereich": 6,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/ILA-BSM.JPG",
+        "prodtitel": "Funke-ILA BSM-Adapter DN/OD 250 - 500",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtabstuerze/produkte/funke-ila-bsm-adapter-dnod-250-500.html"
+        },
+        {
+        "id": 97,
+        "idbereich": 7,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/HS-Baumwurzelbeluefter-01.jpg",
+        "prodtitel": "Funke-Baumwurzelbel\u00fcfter",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/baumschutz/produkte/funke-baumwurzelbeluefter.html"
+        },
+        {
+        "id": 98,
+        "idbereich": 7,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/HS-Bewaesserungswinkel-01.jpg",
+        "prodtitel": "Funke-Baumbew\u00e4sserungswinkel",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/baumschutz/produkte/funke-baumbewaesserungswinkel.html"
+        },
+        {
+        "id": 99,
+        "idbereich": 7,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke-Giessring-01.jpg",
+        "prodtitel": "Funke Gie\u00dfring",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/baumschutz/produkte/funke-giessring.html"
+        },
+        {
+        "id": 100,
+        "idbereich": 7,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/D-Rainclean_mit-Abdeckung-DIBt-neu.png",
+        "prodtitel": "D-Rainclean Sickermulde mit Gussabdeckung B 125, D 400, E 600",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/baumschutz/produkte/d-rainclean-sickermulde-mit-gussabdeckung-klasse-d-400.html"
+        },
+        {
+        "id": 101,
+        "idbereich": 7,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/D-Rainclean_offen-DIBt-neu.png",
+        "prodtitel": "D-Rainclean Sickermulde - Ausf\u00fchrung offen",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/baumschutz/produkte/d-rainclean-sickermulde.html"
+        },
+        {
+        "id": 102,
+        "idbereich": 7,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/D-Raintank-3000-DIBt.png",
+        "prodtitel": "Funke D-Raintank 3000",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/baumschutz/produkte/funke-d-raintank-3000.html"
+        },
+        {
+        "id": 103,
+        "idbereich": 7,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Smalbox-DIBt.png",
+        "prodtitel": "D-Raintank 3000 smallbox",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/baumschutz/produkte/d-raintank-3000-smallbox.html"
+        },
+        {
+        "id": 104,
+        "idbereich": 8,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Golpla-01.jpg",
+        "prodtitel": "Golpla Rasengitterplatten",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/bodenbefestigung/produkte/golpla-rasengitterplatten.html"
+        },
+        {
+        "id": 105,
+        "idbereich": 8,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Equiground-01.jpg",
+        "prodtitel": "Equiground Paddockgitter",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/bodenbefestigung/produkte/equiground-paddockgitter.html"
+        },
+        {
+        "id": 106,
+        "idbereich": 9,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Koederstation-01.jpg",
+        "prodtitel": "Funke K\u00f6derstation - Kanal Typ 1 und Typ 2",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schadnagerbekaempfung/produkte/funke-koederstation-kanal-typ-1-und-typ-2.html"
+        },
+        {
+        "id": 107,
+        "idbereich": 9,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Titelbild-Weka-invasiv-1-m-light-01.jpg",
+        "prodtitel": "Weka invasiv DN 400 light Lebendfalle mit Zugausl\u00f6ser",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schadnagerbekaempfung/produkte/weka-invasiv-dn-400-light-lebendfalle-mit-zugausloeser.html"
+        },
+        {
+        "id": 108,
+        "idbereich": 9,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Titelbild-Weka-invasiv-kompakt-1m.jpg",
+        "prodtitel": "Weka invasiv DN 400 kompakt Lebendfalle 1,0 m",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schadnagerbekaempfung/produkte/weka-invasiv-dn-400-kompakt-lebendfalle-10-m.html"
+        },
+        {
+        "id": 109,
+        "idbereich": 9,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Titelbild-Weka-1500mm.jpg",
+        "prodtitel": "Weka invasiv DN 400 kompakt Lebendfalle 1,5 m",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schadnagerbekaempfung/produkte/weka-invasiv-dn-400-kompakt-lebendfalle-15-m.html"
+        },
+        {
+        "id": 110,
+        "idbereich": 10,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke-Industrie-Werbungl.png",
+        "prodtitel": "",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/funke-industrie/produkte/funke-industrie-loesungen-ganz-nach-ihren-wuenschen.html"
+        },
+        {
+        "id": 111,
+        "idbereich": 11,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/KG-Reinigungsrohr-Titelbild-01.jpg",
+        "prodtitel": "Funke KG-Reinigungsrohr DN/OD 110 \u2013 160",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/diy-baumarkt/produkte/funke-kg-reinigungsrohr-dnod-110-160.html"
+        },
+        {
+        "id": 112,
+        "idbereich": 11,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/KG-Reinigungsschacht-DN300-01.jpg",
+        "prodtitel": "KG Reinigungsschacht DN 300",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/diy-baumarkt/produkte/kg-reinigungsschacht-dn-300.html"
+        },
+        {
+        "id": 113,
+        "idbereich": 11,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/KG-Kanalrohrsystem-COEX2000-SN4-01.jpg",
+        "prodtitel": "KG Kanalrohrsystem Coex 2000 DN/OD 110 - 200 / 4 kN/m\u00b2",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/diy-baumarkt/produkte/kg-kanalrohrsystem-coex-2000-sn-4-dnod-110-200.html"
+        },
+        {
+        "id": 114,
+        "idbereich": 11,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke-Laubfanggitter-01.jpg",
+        "prodtitel": "Funke Laubfanggitter",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/diy-baumarkt/produkte/funke-laubfanggitter.html"
+        },
+        {
+        "id": 115,
+        "idbereich": 11,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Produktpraesentation-DIY-01.jpg",
+        "prodtitel": "Produktpr\u00e4sentationen DIY",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/diy-baumarkt/produkte/produktpraesentationen-diy.html"
+        },
+        {
+        "id": 116,
+        "idbereich": 11,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke-Rueckstauverschluss-01.jpg",
+        "prodtitel": "Funke R\u00fcckstauverschluss einfach / Typ 1",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/diy-baumarkt/produkte/funke-rueckstauverschluss-einfach-typ-1.html"
+        },
+        {
+        "id": 117,
+        "idbereich": 11,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke-Rueckstauverschluss-01.jpg",
+        "prodtitel": "Funke R\u00fcckstauverschluss doppelt / Typ 2",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/diy-baumarkt/produkte/funke-rueckstauverschluss-doppelt-typ-2.html"
+        },
+        {
+        "id": 118,
+        "idbereich": 11,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Regensinkkasten-01.jpg",
+        "prodtitel": "Funke Regensinkkasten",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/diy-baumarkt/produkte/funke-regensinkkasten.html"
+        },
+        {
+        "id": 119,
+        "idbereich": 11,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/D-Raintank-DIY-Modul-01.jpg",
+        "prodtitel": "D-Raintank DIY-Modul",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/diy-baumarkt/produkte/d-raintank-diy-modul.html"
+        },
+        {
+        "id": 120,
+        "idbereich": 11,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/KG-Schacht-DN-OD-400-01.jpg",
+        "prodtitel": "KG Schacht DN/OD 400",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/diy-baumarkt/produkte/kg-schacht-dnod-400.html"
+        },
+        {
+        "id": 121,
+        "idbereich": 11,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Golpla-01.jpg",
+        "prodtitel": "Golpla Rasengitterplatten",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/diy-baumarkt/produkte/golpla-rasengitterplatten.html"
+        },
+        {
+        "id": 122,
+        "idbereich": 11,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Dachrinne-halbrund-01.jpg",
+        "prodtitel": "Funke Dachrinne halbrund NW 75, 100, 125",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/diy-baumarkt/produkte/funke-dachrinne-halbrund-nw-75-100-125.html"
+        },
+        {
+        "id": 123,
+        "idbereich": 11,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Kastenrinne-01.jpg",
+        "prodtitel": "Funke Kastenrinne NW 70",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/diy-baumarkt/produkte/funke-kastenrinne-nw-70.html"
+        },
+        {
+        "id": 124,
+        "idbereich": 11,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Variorinne-01.jpg",
+        "prodtitel": "Funke Vario-Rinne NW 70",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/diy-baumarkt/produkte/funke-vario-rinne-nw-70.html"
+        },
+        {
+        "id": 125,
+        "idbereich": 11,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Standrohr-01.jpg",
+        "prodtitel": "Funke Standrohr DN/OD 110",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/diy-baumarkt/produkte/funke-standrohr-dnod-110.html"
+        },
+        {
+        "id": 126,
+        "idbereich": 12,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/funke_kunststoffe_jagdbedarf_shop.jpg",
+        "prodtitel": "Jagd- und Revierbedarf",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/jagd-und-revierbedarf/produkte/jagd-und-revierbedarf.html"
+        }
+]}

@@ -1,0 +1,16 @@
+{"items": [
+	{
+        "id": 104,
+        "idbereich": 8,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Golpla-01.jpg",
+        "prodtitel": "Golpla Rasengitterplatten",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/bodenbefestigung/produkte/golpla-rasengitterplatten.html"
+        },
+        {
+        "id": 105,
+        "idbereich": 8,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Equiground-01.jpg",
+        "prodtitel": "Equiground Paddockgitter",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/bodenbefestigung/produkte/equiground-paddockgitter.html"
+        }
+]}

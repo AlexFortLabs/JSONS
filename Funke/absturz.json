@@ -1,0 +1,30 @@
+{"items": [	
+	{
+        "id": 93,
+        "idbereich": 6,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Innenliegender-Absturz-01.jpg",
+        "prodtitel": "Funke-ILA, Innenliegender Absturz DN/OD 160 - 400",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtabstuerze/produkte/funke-ila-innenliegender-absturz-dnod-160-400.html"
+        },
+        {
+        "id": 94,
+        "idbereich": 6,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/ILA-500-700-Titelbild.jpg",
+        "prodtitel": "Funke-ILA DN/OD 500 \u2013 710",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtabstuerze/produkte/funke-ila-dnod-500-700.html"
+        },
+        {
+        "id": 95,
+        "idbereich": 6,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/ILA-SattelstA__ck-mit-innenliegendem-Absturz-01.jpg",
+        "prodtitel": "Funke-ILA Fabekun Sattelst\u00fcck DN/OD 160 und 200",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtabstuerze/produkte/ila-fabekun-sattelstueck-dnod-160-und-200.html"
+        },
+        {
+        "id": 96,
+        "idbereich": 6,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/ILA-BSM.JPG",
+        "prodtitel": "Funke-ILA BSM-Adapter DN/OD 250 - 500",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/schachtabstuerze/produkte/funke-ila-bsm-adapter-dnod-250-500.html"
+        }
+]}

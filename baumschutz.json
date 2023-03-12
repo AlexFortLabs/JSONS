@@ -1,0 +1,51 @@
+{"items": [	
+	{
+        "id": 97,
+        "idbereich": 7,
+        "prodbild": "https://funke.ittipps.ipv64.net/fileadmin/images/image_no1/HS-Baumwurzelbeluefter-01.jpg",
+        "prodtitel": "Funke-Baumwurzelbel\u00fcfter",
+        "produrl": "https://funke.ittipps.ipv64.net/anwendungsbereiche/ctrl/as/ca/bereich/baumschutz/produkte/funke-baumwurzelbeluefter.html"
+        },
+        {
+        "id": 98,
+        "idbereich": 7,
+        "prodbild": "https://funke.ittipps.ipv64.net/fileadmin/images/image_no1/HS-Bewaesserungswinkel-01.jpg",
+        "prodtitel": "Funke-Baumbew\u00e4sserungswinkel",
+        "produrl": "https://funke.ittipps.ipv64.net/anwendungsbereiche/ctrl/as/ca/bereich/baumschutz/produkte/funke-baumbewaesserungswinkel.html"
+        },
+        {
+        "id": 99,
+        "idbereich": 7,
+        "prodbild": "https://funke.ittipps.ipv64.net/fileadmin/images/image_no1/Funke-Giessring-01.jpg",
+        "prodtitel": "Funke Gie\u00dfring",
+        "produrl": "https://funke.ittipps.ipv64.net/anwendungsbereiche/ctrl/as/ca/bereich/baumschutz/produkte/funke-giessring.html"
+        },
+        {
+        "id": 100,
+        "idbereich": 7,
+        "prodbild": "https://funke.ittipps.ipv64.net/fileadmin/images/image_no1/D-Rainclean_mit-Abdeckung-DIBt-neu.png",
+        "prodtitel": "D-Rainclean Sickermulde mit Gussabdeckung B 125, D 400, E 600",
+        "produrl": "https://funke.ittipps.ipv64.net/anwendungsbereiche/ctrl/as/ca/bereich/baumschutz/produkte/d-rainclean-sickermulde-mit-gussabdeckung-klasse-d-400.html"
+        },
+        {
+        "id": 101,
+        "idbereich": 7,
+        "prodbild": "https://funke.ittipps.ipv64.net/fileadmin/images/image_no1/D-Rainclean_offen-DIBt-neu.png",
+        "prodtitel": "D-Rainclean Sickermulde - Ausf\u00fchrung offen",
+        "produrl": "https://funke.ittipps.ipv64.net/anwendungsbereiche/ctrl/as/ca/bereich/baumschutz/produkte/d-rainclean-sickermulde.html"
+        },
+        {
+        "id": 102,
+        "idbereich": 7,
+        "prodbild": "https://funke.ittipps.ipv64.net/fileadmin/images/image_no1/D-Raintank-3000-DIBt.png",
+        "prodtitel": "Funke D-Raintank 3000",
+        "produrl": "https://funke.ittipps.ipv64.net/anwendungsbereiche/ctrl/as/ca/bereich/baumschutz/produkte/funke-d-raintank-3000.html"
+        },
+        {
+        "id": 103,
+        "idbereich": 7,
+        "prodbild": "https://funke.ittipps.ipv64.net/fileadmin/images/image_no1/Smalbox-DIBt.png",
+        "prodtitel": "D-Raintank 3000 smallbox",
+        "produrl": "https://funke.ittipps.ipv64.net/anwendungsbereiche/ctrl/as/ca/bereich/baumschutz/produkte/d-raintank-3000-smallbox.html"
+        }
+]}

@@ -1,0 +1,177 @@
+{"items": [
+	{
+        "id": 1,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Kachel-Strassenablauf.jpg",
+        "prodtitel": "Funke Stra\u00dfenablauf",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-strassenablauf.html"
+        },
+        {
+        "id": 2,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/D-Raintank-3000-DIBt.png",
+        "prodtitel": "Funke D-Raintank 3000",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-d-raintank-3000.html"
+        },
+        {
+        "id": 3,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Smalbox-DIBt.png",
+        "prodtitel": "D-Raintank 3000 smallbox",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/d-raintank-3000-smallbox.html"
+        },
+        {
+        "id": 4,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Bluebox-DIBt.png",
+        "prodtitel": "Funke KS-Bluebox",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-ks-bluebox.html"
+        },
+        {
+        "id": 5,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Titelbild-Loeschwassertank.jpg",
+        "prodtitel": "Funke KS-Bluebox als L\u00f6schwasserbeh\u00e4lter",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-ks-bluebox-als-loeschwasserbehaelter.html"
+        },
+        {
+        "id": 6,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/D-Raintank-3000-Folie-DIBt.png",
+        "prodtitel": "D-Raintank 3000 mit Folienummantelung (KDB)",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/d-raintank-3000-mit-folienummantelung.html"
+        },
+        {
+        "id": 7,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/D-Rainclean_offen-DIBt-neu.png",
+        "prodtitel": "D-Rainclean Sickermulde - Ausf\u00fchrung offen",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/d-rainclean-sickermulde.html"
+        },
+        {
+        "id": 8,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/D-Rainclean_mit-Abdeckung-DIBt-neu.png",
+        "prodtitel": "D-Rainclean Sickermulde mit Gussabdeckung B 125, D 400, E 600",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/d-rainclean-sickermulde-mit-gussabdeckung-klasse-d-400.html"
+        },
+        {
+        "id": 9,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Filterschacht-DIBt-neu.png",
+        "prodtitel": "Funke Filterschacht",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-filterschacht.html"
+        },
+        {
+        "id": 10,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/D-Rainclean-Grossanwendungen-mit-Substrat.JPG",
+        "prodtitel": "D-Rainclean Gro\u00dfanwendungen mit Substrat",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/d-rainclean-grossanwendungen-mit-substrat.html"
+        },
+        {
+        "id": 11,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Innolet-DWA.png",
+        "prodtitel": "Innolet Stra\u00dfenablauffilter f\u00fcr Trockenablauf (Rechteck, Quadrat)",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/innolet-strassenablauffilter-fuer-trockenablauf-rechteck-quadrat.html"
+        },
+        {
+        "id": 12,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Innolet-G-DWA.png",
+        "prodtitel": "Innolet G Stra\u00dfenablauffilter f\u00fcr Nass-Schlammfang",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/innolet-g-strassenablauffilter-fuer-nass-schlammfang.html"
+        },
+        {
+        "id": 13,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Sedimentationsanlage-Titelbild-DWA.png",
+        "prodtitel": "Funke Sedimentationsanlage",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-sedimentationsanlage.html"
+        },
+        {
+        "id": 14,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke_Sedimentationsschacht_DWA.png",
+        "prodtitel": "Funke Sedimentationsschacht",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-sedimentationsschacht.html"
+        },
+        {
+        "id": 15,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke-Reinigungsschacht-DN-1000-Titelbild.jpg",
+        "prodtitel": "Funke Reinigungsschacht DN 1000",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-reinigungsschacht-dn-1000.html"
+        },
+        {
+        "id": 16,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Reinigungsschacht-DN-800-mit-VA-Sieb-01.jpg",
+        "prodtitel": "HS-Reinigungsschacht DN/OD 800 mit VA Sieb",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/hs-reinigungsschacht-dnod-800-mit-va-sieb.html"
+        },
+        {
+        "id": 17,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Reinigungsschacht-DN-OD-400-01.jpg",
+        "prodtitel": "Reinigungsschacht DN/OD 400",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/reinigungsschacht-dnod-400.html"
+        },
+        {
+        "id": 18,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Reinigungsschacht-DN-OD-315-01.jpg",
+        "prodtitel": "Reinigungsschacht DN/OD 315",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/reinigungsschacht-dnod-315.html"
+        },
+        {
+        "id": 19,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke_Drosselschacht-01.jpg",
+        "prodtitel": "Funke Drosselschacht DN 1000",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-drosselschacht-dn-1000.html"
+        },
+        {
+        "id": 20,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Drosselschacht-01.jpg",
+        "prodtitel": "HS-Drosselschacht DN/OD 800",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/hs-drosselschacht-dnod-800.html"
+        },
+        {
+        "id": 21,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Drosselschacht-DN-OD-315-01.jpg",
+        "prodtitel": "Drosselschacht DN/OD 315",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/drosselschacht-dnod-315.html"
+        },
+        {
+        "id": 22,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Eco-Bodenfilter-01.jpg",
+        "prodtitel": "Eco Bodenfilter",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/eco-bodenfilter.html"
+        },
+        {
+        "id": 23,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Funke-Seitenablauf-Website-01.png",
+        "prodtitel": "Funke Seitenablauf",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-seitenablauf.html"
+        },
+        {
+        "id": 24,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Kachel_Spezialartikel_01-Neu.jpg",
+        "prodtitel": "Funke Spezialsch\u00e4chte",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-spezialschaechte.html"
+        },
+        {
+        "id": 25,
+        "idbereich": 1,
+        "prodbild": "https://www.funkegruppe.de/fileadmin/images/image_no1/Spuelschacht_Kunststoffe_01_DiBt-Zulassung.jpg",
+        "prodtitel": "Funke Sp\u00fclschacht DN 1000",
+        "produrl": "https://www.funkegruppe.de/anwendungsbereiche/ctrl/as/ca/bereich/regenwasserbewirtschaftung/produkte/funke-spuelschacht-dn-1000.html"
+        }
+]}
